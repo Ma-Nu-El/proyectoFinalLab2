@@ -59,6 +59,20 @@ body {
 
 /*===== FIXED BACKGROUND IMG =====*/
 
+.fixed {
+  background-image: url('../img/steve.jpg');
+  position: fixed;
+}
+
+.fixed-background {
+  padding: 10rem 0;
+}
+
+.bg-custom {
+  background-color: rgba(0, 0, 0, .4);
+  color: white;
+  border-radius: 1rem;
+}
 
 
 /*-- Emoji Navbar --*/
