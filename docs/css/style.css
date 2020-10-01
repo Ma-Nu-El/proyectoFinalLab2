@@ -105,11 +105,12 @@ footer p, footer a, .socket a {
   text-decoration: none;
 }
 
+/* iconos de rr.ss. */
 ul.social {
-  list-style-type: none;
-  display: flex;
-  max-width: 20rem;
-  margin: 0 auto;
+  list-style-type: none;        /*le quita los puntos a la lista*/
+  display: flex;                /*pone los iconos de forma horizontal*/
+  max-width: 20rem;             /*espacio entre iconos*/
+  margin: 0 auto;               /*centra la lista*/
   padding: 0;
 }
 
@@ -123,6 +124,15 @@ footer .svg-inline--fa {
 
 footer .svg-inline--fa:hover {
   color: #68a0d2;
+
+}
+
+.contenedor-integrantes .svg-inline--fa {
+  font-size: 2.3rem;
+}
+
+.contenedor-integrantes .svg-inline--fa:hover {
+  color: white;
 
 }
 

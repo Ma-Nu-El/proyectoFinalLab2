@@ -1,7 +1,8 @@
 .contenedor-integrantes{
     width: 1170px;
     margin: 3% auto;
-    background: rgba(70, 65, 65, 0.61);
+    /* background: rgba(70, 65, 65, 0.61); */
+    background: rgba(0, 0, 0, 0.1);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -14,7 +15,7 @@
 .titulo-header h2{
     text-transform: uppercase;
     margin: 0;
-    color: #00fff2;
+    /* color: #00fff2; */
     font-size: 40px;
     letter-spacing: 5px;
 }
