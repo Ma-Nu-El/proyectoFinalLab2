@@ -56,11 +56,20 @@ body {
 /*-- Carousel Content --*/
 
 
+/*-- Video --*/
+/*--
+https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally
+--*/
+
+iframe {
+    margin: 0 auto;
+    display: block;
+    border-style:none;
+}
 
 /*===== FIXED BACKGROUND IMG =====*/
 
 .fixed {
-  background-image: url('../img/steve.jpg');
   position: fixed;
 }
 
