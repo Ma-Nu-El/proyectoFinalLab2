@@ -129,7 +129,7 @@ footer p, footer a, .socket a {
 ul.social {
   list-style-type: none;        /*le quita los puntos a la lista*/
   display: flex;                /*pone los iconos de forma horizontal*/
-  max-width: 20rem;             /*espacio entre iconos*/
+  max-width: 7rem;             /*espacio entre iconos*/
   margin: 0 auto;               /*centra la lista*/
   padding: 0;
 }
