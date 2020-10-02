@@ -76,6 +76,12 @@ body {
   color: white;
   border-radius: 1rem;
 }
+
+.pantallazo {
+  height: 10rem;
+  margin: 3rem auto;
+}
+
 /*-- Video --*/
 /*--
 https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally
