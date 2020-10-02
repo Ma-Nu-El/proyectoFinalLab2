@@ -60,12 +60,20 @@ body {
 .carousel-item-next,
 .carousel-item-prev,
 .carousel-item.active {
-  transition: transform .2s ease;
+  transition: transform 1.2s ease;
 }
 
 /*-- Carousel Content --*/
+.carousel-caption {
+  position: absolute;
+  top: 54%;
+  transform: translateY(-50%);
+  text-transform: uppercase;
+}
 
-
+.bg-custom-carousel {
+  background-color: rgba(0, 0, 0, .4);
+}
 /*-- Video --*/
 /*--
 https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally
