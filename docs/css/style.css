@@ -71,8 +71,10 @@ body {
   text-transform: uppercase;
 }
 
-.bg-custom-carousel {
+.bg-custom {
   background-color: rgba(0, 0, 0, .4);
+  color: white;
+  border-radius: 1rem;
 }
 /*-- Video --*/
 /*--
