@@ -89,3 +89,10 @@
     transform: translateX(0);
     transition: .3s transform linear, .3s height linear .3s;
 }
+
+.instagram-integrantes {
+    text-align: center;
+    list-style-type: none;        /*le quita los puntos a la lista*/
+    /* margin: 0 auto;               /\*centra la lista*\/ */
+    padding: 2rem;
+}
