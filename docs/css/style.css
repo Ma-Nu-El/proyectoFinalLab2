@@ -205,7 +205,7 @@ Extra (xl) large devices (large desktops, 1200px and up)
 .row, .container-fluid {
   margin-left: 0px !important;
   margin-right: 0px !important;
-  background-color: #d7d5d5;
+  background-color: #f4f4f4;
 }
 
 /*-- Fixed Background Image --*/
