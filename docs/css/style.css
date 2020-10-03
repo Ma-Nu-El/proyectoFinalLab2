@@ -126,10 +126,16 @@ footer img {
   margin: 1.5rem auto;
 }
 
-footer p, footer a, .socket a {
+footer p, footer a, {
+  color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+}
+
+footer .socket a {
   color: white;
   text-decoration: none;
 }
+
 
 /* iconos de rr.ss. */
 ul.social {
