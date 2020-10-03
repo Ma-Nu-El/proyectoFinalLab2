@@ -112,6 +112,13 @@ iframe {
 
 /*-- Emoji Navbar --*/
 
+.uml {
+  height: 20rem;
+}
+
+.uml-btn {
+  text-align: center;
+}
 
 
 /*============= FOOTER =============*/
